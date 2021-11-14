@@ -1,0 +1,3 @@
+(function mult(number){
+return number *2;
+})(10)
