@@ -1,0 +1,12 @@
+//good example of IIFE
+
+var UserName = 'Bill';
+
+(function display(name){
+   {
+    alert("my name is" + name);
+   }
+
+display(name);
+}
+)(UserName);
