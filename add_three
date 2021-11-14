@@ -11,3 +11,5 @@
     let hello = AddThree(10)(20)(30);
 
     console.log(hello);
+
+
