@@ -1,0 +1,13 @@
+
+
+
+function testClosure(){
+
+let x =4;
+return x;
+
+}
+
+let hello =console.log(testClosure()). //4 works
+
+console.log(x) // returns undefined
