@@ -6,3 +6,4 @@ let add = function (a,b){
 alert(add);
 
 //tested on chrome 11.13.2021
+//By placing functions and variables inside an immediately invoked function expression, you can avoid polluting them to the global object:
